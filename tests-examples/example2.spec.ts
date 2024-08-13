@@ -1,6 +1,7 @@
 import { test, expect, Page } from '@playwright/test'
 
 // AAA
+// POM - group DOM elements/webpages
 
 const URL = 'https://playwright.dev/'
 
